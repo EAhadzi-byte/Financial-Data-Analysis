@@ -20,8 +20,8 @@ Table of Contents
         Visualization 2. Histogram + Box Plot
         Visualization 3. Joint Scatter Plot
         Visualization 4. Violin Plot
-        Visualization 5. Correlation Heat Map of                                 Financial Metric
-        Visualization 6. Interactive bubble chat                                 function
+        Visualization 5. Correlation Heat Map of                                 
+        Visualization 6. Interactive bubble chat                                 
     Section 5. GUI Development
     Section 6. Conclusion
                   References
